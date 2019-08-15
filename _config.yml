@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "YANG Rui"
   avatar           : "profile.png"
-  bio              : "PhD. candidate. Computer Vision & Remote Sensing"
+  bio              : "PhD. candidate. "
+  researchinterest : "Computer Vision & Remote Sensing"
   location         : "Wuhan University"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
