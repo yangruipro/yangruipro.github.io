@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Collaborative Sensing Lab.            : "http://202.114.107.174:9005/csl/index.html"
+  csl              : "http://202.114.107.174:9005/csl/index.html"
 
 # Reading Files
 include:
