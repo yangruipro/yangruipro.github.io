@@ -34,7 +34,7 @@
       {% endif %}
     </h3>
     {% if post.authorlist %}
-    <br />{{ post.authorlist }}
+    <p>{{ post.authorlist }}</p>
     {% endif %}
     {% if post.collection == 'publications' %}
     <br />Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
