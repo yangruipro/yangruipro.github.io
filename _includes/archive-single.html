@@ -54,7 +54,7 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     -->
-    {% if post.excerpt %}
+    {% if post.excerpt and post.collection == 'publications' %}
       <img src="{{ post.excerpt | prepend: "/images/" | prepend: base_path }}" alt="Graphical Abstract" height="300" width="500">
     {% endif %}
 
