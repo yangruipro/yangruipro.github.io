@@ -53,7 +53,7 @@
     {% endif %}
     -->
     {% if post.excerpt %}
-      <img src="{{ post.excerpt | prepend: "/images/" | prepend: base_path }}">
+      <img src="{{ post.excerpt | prepend: "/images/" | prepend: base_path }}", alt="Graphical Abstract">
     {% endif %}
 
     {% if post.citation and post.paperurl %}
