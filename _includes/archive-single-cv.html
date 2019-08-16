@@ -34,10 +34,10 @@
       {% endif %}
     </h3>
     {% if post.authorlist %}
-    <br>{{ post.authorlist }} <br>
+    <br />{{ post.authorlist }}
     {% endif %}
     {% if post.collection == 'publications' %}
-    <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </br>
+    <br />Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
     {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
