@@ -21,8 +21,5 @@ Updates
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-testHere
+* <b>R. Yang</b>, X. Xu, Z.-Z. Xu, C.-J. Ding and F.-L. Pu, "<a href="https://yangruipro.github.io/publication/2019-08-IGARSS" target="_blank">"A class activation mapping guided adversarial training method for land-use classification and object detection"</a>, <i>in Proc. IEEE Int. Geosci. Remote Sens. Symp.(IGARSS)</i>, August. 2019. 
+* <b>R. Yang</b>, X. Xu, Z.-Z. Xu, H. Dong. R. Gui and F.-L. Pu, <a href="https://yangruipro.github.io/publication/2019-08-TGRS" target="_blank">"Dynamic Fractal Texture Analysis For PolSAR Land Cover Classification"</a>, <i>IEEE Trans. Geosci. Remote Sens.</i>, vol. 57, no. 8, pp. 5991-6002, August. 2019.
