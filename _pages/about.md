@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in electronic engineering, Electronic Information School, Wuhan University, 2017
 * Ph.D candidate in signal and information processing, Electronic Information School, Wuhan University.
+* B.Eng. in electronic engineering, Electronic Information School, Wuhan University, 2017
 
 Updates
 ======
