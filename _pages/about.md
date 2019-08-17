@@ -23,3 +23,9 @@ Publications
 ======
 * <b>R. Yang</b>, X. Xu, Z.-Z. Xu, C.-J. Ding and F.-L. Pu, "<a href="https://yangruipro.github.io/publication/2019-08-IGARSS" target="_blank">"A class activation mapping guided adversarial training method for land-use classification and object detection"</a>, <i>in Proc. IEEE Int. Geosci. Remote Sens. Symp.(IGARSS)</i>, August. 2019. 
 * <b>R. Yang</b>, X. Xu, Z.-Z. Xu, H. Dong. R. Gui and F.-L. Pu, <a href="https://yangruipro.github.io/publication/2019-08-TGRS" target="_blank">"Dynamic Fractal Texture Analysis For PolSAR Land Cover Classification"</a>, <i>IEEE Trans. Geosci. Remote Sens.</i>, vol. 57, no. 8, pp. 5991-6002, August. 2019.
+
+
+* Xu. Z, Xu. X, Wang. L, <b>Yang. R,</b>. Pu. F, Deformable ConvNet with Aspect Ratio Constrained NMS for Object Detection in Remote Sensing Imagery. <i>Remote Sens.</i>2017, 9, 1312. 
+* Gui. R, Xu. X, Wang. L,<b>Yang. R</b>, Pu. F, A Generalized Zero-Shot Learning Framework for PolSAR Land Cover Classification. <i>Remote Sensing</i>, 2018,10(8), 1307.
+* Gui. R, Xu. X, Zhang. D, Wang. L, <b>Yang. R</b>, Pu. F. Built-up areas extraction from PolSAR imagery via eigenvalue statistical information and PU-learning. <i>in Proc. IEEE Int. Geosci. Remote Sens. Symp.(IGARSS)</i>, August. 2019.
+* Wang. L, Xu. X, Dong. H, Gui. R, <b>Yang. R</b>, Pu. F. Exploring Convolutional LSTM forPolSAR Image Classification. <i>in Proc. IEEE Int. Geosci. Remote Sens. Symp.(IGARSS)</i>, July. 2018.
