@@ -26,6 +26,7 @@ Publications
 
 
 * Xu. Z, Xu. X, Wang. L, <b>Yang. R,</b>. Pu. F, Deformable ConvNet with Aspect Ratio Constrained NMS for Object Detection in Remote Sensing Imagery. <i>Remote Sens.</i>2017, 9, 1312. 
+* Dong. H, Xu. X, <b>Yang. R,</b>. Pu. F. Component Ratio-Based Distances for Cross-Source PolSAR Image Classification <i>Remote Sens. Letters.</i>2019. 
 * Gui. R, Xu. X, Wang. L,<b>Yang. R</b>, Pu. F, A Generalized Zero-Shot Learning Framework for PolSAR Land Cover Classification. <i>Remote Sensing</i>, 2018,10(8), 1307.
 * Gui. R, Xu. X, Zhang. D, Wang. L, <b>Yang. R</b>, Pu. F. Built-up areas extraction from PolSAR imagery via eigenvalue statistical information and PU-learning. <i>in Proc. IEEE Int. Geosci. Remote Sens. Symp.(IGARSS)</i>, August. 2019.
 * Wang. L, Xu. X, Dong. H, Gui. R, <b>Yang. R</b>, Pu. F. Exploring Convolutional LSTM for PolSAR Image Classification. <i>in Proc. IEEE Int. Geosci. Remote Sens. Symp.(IGARSS)</i>, July. 2018.
