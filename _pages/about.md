@@ -25,6 +25,7 @@ Publications
 * <b>R. Yang</b>, X. Xu, Z.-Z. Xu, H. Dong. R. Gui and F.-L. Pu, <a href="https://yangruipro.github.io/publication/2019-08-TGRS" target="_blank">"Dynamic Fractal Texture Analysis For PolSAR Land Cover Classification"</a>, <i>IEEE Trans. Geosci. Remote Sens.</i>, vol. 57, no. 8, pp. 5991-6002, August. 2019.
 
 
+* Wang L, Xu X, Yu Y, <b>Yang. R,</b>. Gui. R, Pu. F, SAR-to-Optical Image Translation Using Supervised Cycle-Consistent Adversarial Networks. <i>IEEE Access</i>, 2019: 129136-129149.
 * Xu. Z, Xu. X, Wang. L, <b>Yang. R,</b>. Pu. F, Deformable ConvNet with Aspect Ratio Constrained NMS for Object Detection in Remote Sensing Imagery. <i>Remote Sens.</i>2017, 9, 1312. 
 * Dong. H, Xu. X, <b>Yang. R,</b>. Pu. F. Component Ratio-Based Distances for Cross-Source PolSAR Image Classification <i>Remote Sens. Letters.</i>2019. 
 * Gui. R, Xu. X, Wang. L,<b>Yang. R</b>, Pu. F, A Generalized Zero-Shot Learning Framework for PolSAR Land Cover Classification. <i>Remote Sensing</i>, 2018,10(8), 1307.
