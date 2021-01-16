@@ -15,7 +15,7 @@ Education
 
 Updates
 ======
-* [2020.11] Our work "A Saliency Guided Vehicle Targer Detection Method for Airborne SAR Images"</a> has been accpted by the 7th China High Resolution Earth Observation Conference (Outstanding paper).
+* [2020.11] Our work "A Saliency Guided Vehicle Targer Detection Method for Airborne SAR Images" has been accpted by the 7th China High Resolution Earth Observation Conference (Outstanding paper).
 * [2020.04] Our work <a href="https://www.igarss2020.org/view_paper.php?PaperNum=3425" target="_blank">"Learning Relation by Graph Neural Network for SAR Image Few-shot Learning"</a> has been accpted by IGRASS2020 (oral presentation).
 * [2019.04] Our work <a href="https://www.igarss2019.org/Papers/AcceptedPapers.asp" target="_blank">"A Class Activation Mapping Guided Adversarial Training Method for Land-use Classification and Object Detection"</a> has been accpted by IGRASS2019 (oral presentation).
 * [2019.03] Our work <a href="https://ieeexplore.ieee.org/document/8681159" target="_blank">"Dynamic Fractal Texture Analysis for PolSAR Land Cover Classification" </a> has been accpted by IEEE TGRS.
@@ -50,15 +50,15 @@ Presentation
 
 Lectures and supervisions
 ======
-* [03/2020-06/2020] <b>Teaching Assistant</b> WHU - Course of Signal and System}
-* [09/2017-01/2018] <b>Teaching Assistant</b> WHU - Course of Digital Signal Processing}
-* [9/2015-01/2016,09/2016-01/2017] <b>Teaching Assistant</b> WHU - Course of Speech Signal Processing}
+* [03/2020-06/2020] <b>Teaching Assistant</b> WHU - Course of Signal and System
+* [09/2017-01/2018] <b>Teaching Assistant</b> WHU - Course of Digital Signal Processing
+* [9/2015-01/2016,09/2016-01/2017] <b>Teaching Assistant</b> WHU - Course of Speech Signal Processing
 
 Selected Awards
 ======
 * [11/2020] Outstanding paper (“A Saliency Guided Vehicle Target Detection Method for Airborne SAR Images”) of the 7th China High Resolution Earth Observation Conference
 * [10/2019] Postgraduate Academic Innovation Award of Wuhan University (Second Prize)
 * [06/2017] Outstanding paper (“Dynamic Texture and Its Application in Visual Scenario”) of bachelor’s dissertation in Wuhan University
-* [10/2014,10/2016] National Scholarship, Wuhan University (\textcolor{blue}{top 2\% of college})
+* [10/2014,10/2016] National Scholarship, Wuhan University (Top 2%)
 * [10/2015] Special scholarship (Samsung) of Wuhan University
 * [10/2014] Special scholarship (Gui Yang) of Wuhan University
