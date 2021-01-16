@@ -45,7 +45,7 @@ Conference publications
 
 Presentation
 ======
-* [2] <b>Yang, R.</b> Learning Relation by Graph Neural Network for SAR Image Few-shot Learning, 2020 IEEE Int. Geosci. Remote Sens. Symp.(IGARSS), \href{https://www.igarss2020.org/view_paper.php?PaperNum=3425}{Virtual Symposium}, 01 Oct. 2020.
+* [2] <b>Yang, R.</b> Learning Relation by Graph Neural Network for SAR Image Few-shot Learning, 2020 IEEE Int. Geosci. Remote Sens. Symp.(IGARSS), <a href=https://www.igarss2020.org/view_paper.php?PaperNum=3425" target="_blank">Virtual Symposium</a>, 01 Oct. 2020.
 * [1] <b>Yang, R.</b> A Class Activation Mapping Guided Adversarial Training Method for Land-use Classification and Object Detection, 2019 IEEE Int. Geosci. Remote Sens. Symp.(IGARSS), Yokohama, Japan, 02 Aug. 2019.
 
 Lectures and supervisions
